@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb9e0a2a.css",
+    "main.js": "/static/js/main.6c66dc84.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sharda4.jpeg": "/static/media/sharda4.532c918629dd34056a98.jpeg",
+    "static/media/TECHGYAAN-MAG.png": "/static/media/TECHGYAAN-MAG.39ca25a009f586ce6f0d.png",
+    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.23dfbc19380d778f2742.ttf",
+    "static/media/Futura Heavy font.ttf": "/static/media/Futura Heavy font.af72c25a6945b0f48abb.ttf",
+    "static/media/futura medium bt.ttf": "/static/media/futura medium bt.4e762c29ef7b44ca51cb.ttf",
+    "static/media/SHRIMP.ttf": "/static/media/SHRIMP.3e0131c801648a1ab894.ttf",
+    "static/media/Futura-Light-font.ttf": "/static/media/Futura-Light-font.e07bb8557f02892be46b.ttf",
+    "static/media/Vogue.ttf": "/static/media/Vogue.cc23cdc2582e9de16b77.ttf",
+    "static/media/NeueMetana-Regular.ttf": "/static/media/NeueMetana-Regular.e3b94274d01f70b358c5.ttf",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "main.bb9e0a2a.css.map": "/static/css/main.bb9e0a2a.css.map",
+    "main.6c66dc84.js.map": "/static/js/main.6c66dc84.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9e0a2a.css",
+    "static/js/main.6c66dc84.js"
+  ]
+}
